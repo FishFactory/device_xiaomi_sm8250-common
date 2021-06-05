@@ -1,10 +1,6 @@
 [
   {
-    "repository": "android_device_oneplus_common",
-    "target_path": "device/oneplus/common"
-  },
-  {
-    "repository": "android_kernel_xiaomi_sm8250",
+    "repository": "kernel_xiaomi_sm8250",
     "target_path": "kernel/xiaomi/sm8250"
-  }
+  },
 ]
